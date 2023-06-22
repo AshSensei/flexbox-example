@@ -10,7 +10,7 @@
 }
 
 
-.red, .yellow,.blue{
+.red, .yellow,.blue, .green, .purple{
     height:200px;
     width:200px;
     display:flex;
@@ -33,3 +33,10 @@
     order:3;
 }
 
+.green{
+    background-color:green;
+}
+
+.purple{
+    background-color:purple;
+}
